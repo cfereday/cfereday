@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](Charlotte_fereday.jpg)
+![alt text](./Charlotte_fereday.jpg)
 
 - 🔭 I’m currently working on JS, NodeJS and Security Engineering. More on my profile [here](https://www.charlottebrf.dev/profile)
 - 🌱 I’m currently learning [11ty](https://www.11ty.dev/)
